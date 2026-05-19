@@ -1,5 +1,5 @@
 # postgresql-universe-database
-A relational database built in PostgreSQL modeling the universe (galaxies, stars, planets, and moons) with full foreign key relationships :)
+A practice relational database built in PostgreSQL modeling the universe (galaxies, stars, planets, and moons) with full foreign key relationships :)
 
   ## Schema
   <img width="974.25" height="595" alt="Untitled-3" src="https://github.com/user-attachments/assets/36e5fbf3-3a2a-4bbe-8460-54e2f599776c" />
